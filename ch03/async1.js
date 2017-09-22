@@ -1,6 +1,3 @@
-/*
-I request a JSON object.
-*/
 const request = require('request');
 
 function main(args) {
